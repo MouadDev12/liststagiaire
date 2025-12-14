@@ -32,7 +32,7 @@ Elle offre une interface moderne, une navigation fluide et des statistiques auto
 
 ## 📁 Architecture du Projet
 
-
+```text
 src/
 ├── components/
 │   └── ListStagiaires.jsx

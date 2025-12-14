@@ -43,7 +43,6 @@ Elle offre une interface moderne, une navigation fluide et des statistiques auto
 │   ├── App.jsx                  
 │   ├── index.js                  
 │   │
-
 │   └── styles/
 │       └── bootstrap.min.css     
 │

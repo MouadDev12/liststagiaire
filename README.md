@@ -30,32 +30,20 @@ Elle offre une interface moderne, une navigation fluide et des statistiques auto
 ---
 
 ## 📁 Architecture du Projet
-stagiaires-management-app/
-│
-├── public/
-│   └── index.html
 │
 ├── src/
 │   ├── components/
-│   │   └── ListStagiaires.jsx     # Affichage, recherche et statistiques
+│   │   └── ListStagiaires.jsx     
 │   │
-│   ├── data.js                   # Données initiales des stagiaires
+│   ├── data.js                   
 │   │
-│   ├── Navbar.jsx                # Barre de navigation
-│   ├── AddStagiaire.jsx          # Page d’ajout d’un stagiaire
-│   ├── App.jsx                   # Composant principal (Router)
-│   ├── index.js                  # Point d’entrée React
+│   ├── Navbar.jsx                
+│   ├── AddStagiaire.jsx          
+│   ├── App.jsx                  
+│   ├── index.js                  
 │   │
 │   └── styles/
-│       └── bootstrap.min.css     # Styles Bootstrap (optionnel)
+│       └── bootstrap.min.css     
 │
-├── screenshots/                  # Captures d’écran du projet
-│   ├── home.png
-│   ├── search.png
-│   └── add.png
 │
-├── package.json
-├── package-lock.json
-├── README.md
-└── .gitignore
 

@@ -29,22 +29,19 @@ Elle offre une interface moderne, une navigation fluide et des statistiques auto
 
 ---
 
+```md
 ## 📁 Architecture du Projet
-│
-├── src/
 
-│   ├── components/
-│   │   └── ListStagiaires.jsx     
-│   │
-│   ├── data.js                   
-│   │
-│   ├── Navbar.jsx                
-│   ├── AddStagiaire.jsx          
-│   ├── App.jsx                  
-│   ├── index.js                  
-│   │
-│   └── styles/
-│       └── bootstrap.min.css     
+```text
+src/
+├── components/
+│   └── ListStagiaires.jsx
 │
+├── data.js
+├── Navbar.jsx
+├── AddStagiaire.jsx
+├── App.jsx
+├── index.js
 │
-
+└── styles/
+    └── bootstrap.min.css

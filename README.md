@@ -32,6 +32,7 @@ Elle offre une interface moderne, une navigation fluide et des statistiques auto
 ## 📁 Architecture du Projet
 │
 ├── src/
+
 │   ├── components/
 │   │   └── ListStagiaires.jsx     
 │   │
@@ -42,6 +43,7 @@ Elle offre une interface moderne, une navigation fluide et des statistiques auto
 │   ├── App.jsx                  
 │   ├── index.js                  
 │   │
+
 │   └── styles/
 │       └── bootstrap.min.css     
 │
